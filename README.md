@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Cloud Automation
 - 💞️ I’m looking to collaborate on Infra Automation 
 - 📫 How to reach me imranahamed.a@gmail.com
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
 
 <!---
 imranahamed036/imranahamed036 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
